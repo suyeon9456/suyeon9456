@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=Suyeon-cho&height=150&fontSize=60&desc=Hello%20I'm%20suyeon&descAlignY=75&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=Suyeon-cho&height=150&fontSize=60&desc=Hey%20I'm%20suyeon&descAlignY=75&descAlign=60)
 
 <div align="center">
   <img src="https://img.shields.io/badge/NextJs-000000?style=flat-square&logo=Next.js&logoColor=white"/>
@@ -18,21 +18,14 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyeon9456&show_icons=true&theme=radical)
+<br/>
 
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyeon9456&show_icons=true" />
+</div>
 
+<br/>
 
-<!--
-**suyeon9456/suyeon9456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeon9456&layout=compact" />
+</div>
