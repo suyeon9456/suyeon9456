@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlign=70&desc=Desc&descAlign=20)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=Suyeon-cho&height=150&fontSize=60&desc=Hello%20I'm%20suyeon&descAlignY=75&descAlign=60)
 
 
 
